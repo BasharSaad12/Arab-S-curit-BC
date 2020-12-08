@@ -61,4 +61,4 @@ client.on('message', message => { // هاذا للبرودكسات
 
 
 
-client.login(process.env.Nzg1OTMzMjg1NTQwMjMzMjY2.X8_DaQ.Rr1Fu7E_lHzGII6v_MEIzbGGHo);
+client.login(process.env.NTQwNzk1MzA0MzIxMjIwNjA4.DzWHdw.XVVXMWBfzprMcuZCJfLUsqk8XJQ);
